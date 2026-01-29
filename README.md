@@ -92,7 +92,7 @@ Built with standard library modules: `tkinter`, `json`, `os`, `datetime`.
 
 ## License
 
-GNU General Purpose
+GNU General Public License 
 
 --- 
 
